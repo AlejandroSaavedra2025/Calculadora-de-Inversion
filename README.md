@@ -759,7 +759,7 @@
 
   <!-- Logo hero -->
   <div class="logo-hero">
-    <img src="ROBPAIERO_TUASESORDECONFIANZA.PNG" alt="Logo Roberto Palero" class="hero-logo">
+    <img src="Alex_Saavedra.PNG" alt="Logo Alejandro Saavedra" class="hero-logo">
   </div>
 
   <div class="calculadora-grid">
@@ -1048,7 +1048,7 @@
   </div>
 
   <!-- Botón flotante de WhatsApp -->
-  <a href="https://wa.me/523324967419?text=Hola,%20me%20interesa%20saber%20m%C3%A1s%20sobre%20inversiones%20%F0%9F%92%B0%F0%9F%93%88" class="whatsapp-btn" target="_blank" title="Contactar por WhatsApp">
+  <a href="https://wa.me/523311338547?text=Hola,%20me%20interesa%20saber%20m%C3%A1s%20sobre%20inversiones%20%F0%9F%92%B0%F0%9F%93%88" class="whatsapp-btn" target="_blank" title="Contactar por WhatsApp">
     <i class="fab fa-whatsapp"></i>
   </a>
 
